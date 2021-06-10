@@ -20,7 +20,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "pg": "^7.7.1",
-    "pg-hstore": "^2.3.2",
+    "pg-hstore": "^2.3.4",
     "pug": "^2.0.3",
     "sequelize": "^4.42.0"
   }
